@@ -8,6 +8,7 @@ Hackathon Hackers' GitHub profiles
 - Aaron Landy https://github.com/aaln
 - Aashni Shah https://github.com/aashnisshah
 - Aasiruddin Walajahi https://github.com/Aasir
+- Aayush Ranaut https://github.com/aayushranaut
 - Abdullah Hashmi https://github.com/rtahir
 - Abhi Agarwal https://github.com/abhiagarwal
 - Abhinav Raghunathan https://github.com/abhir1212
@@ -57,6 +58,7 @@ Hackathon Hackers' GitHub profiles
 - Andrew Jaeger https://github.com/mrjaeger
 - Andrew Li https://github.com/southrop
 - Andrew Schreiber https://github.com/andrewschreiber
+- Andrew Yang https://github.com/andrewyang96
 - Andy Fang https://github.com/AndyF
 - Andy Kamath https://github.com/andykamath
 - Angel Say https://github.com/sayangel
@@ -302,6 +304,7 @@ Hackathon Hackers' GitHub profiles
 - Jaxon Stevens https://github.com/LemonaInc
 - Jay Kamat https://github.com/jgkamat
 - Jay Mo https://github.com/unitedjaymo
+- Jaylen Wimbish https://github.com/jaylenw
 - Jay Zalowitz https://github.com/jayzalowitz
 - Jeffrey Lin https://github.com/linjeffrey
 - Jennifer Apacible https://github.com/japacible
@@ -344,6 +347,7 @@ Hackathon Hackers' GitHub profiles
 - Juan Chomali https://github.com/jchomali
 - Julien L https://github.com/26medias
 - 서태웅 (Justice Suh) https://github.com/justicesuh
+- Justin Bleuel http://www.columbia.edu/~jmb2372/
 - Justin Cano https://github.com/bumrush
 - Justin Chan https://github.com/justinthec
 - Justin Krup https://github.com/mazlix
@@ -511,6 +515,7 @@ Hackathon Hackers' GitHub profiles
 - Prajwal Kedilaya https://github.com/pjIowa
 - Pranav Chaudhari https://github.com/hahjoker
 - Pranay Pareek https://github.com/pranaypareek
+- Preston Mueller https://github.com/mathcolo
 - Prithvi Narasimhan https://github.com/prithvin
 - Purag Moumdjian https://github.com/purmou
 - Rafa Moreno https://github.com/ralphie9224
@@ -545,6 +550,7 @@ Hackathon Hackers' GitHub profiles
 - Ritwik Gupta https://github.com/RitwikGupta
 - Robert Kim https://github.com/rkty13
 - Robert O'Connor https://github.com/robbyoconnor
+- Robert Olsthoorn https://github.com/rolstenhouse
 - Robert Rouhani https://github.com/Robmaister
 - Robert Xu https://github.com/robxu9
 - Robin van Wijngaarden https://github.com/robinvw1
@@ -577,6 +583,7 @@ Hackathon Hackers' GitHub profiles
 - Sagar Garg https://github.com/sagargarg
 - Sagar Laud https://github.com/Sagarsaurus
 - Sagnik Saha https://github.com/sagniksaha
+- Sahil Dua https://github.com/sahildua2305
 - Sai Grandhi https://github.com/saigrandhi
 - Sakib Jalal https://github.com/sakibj
 - Sakib Rasul https://www.github.com/rhythms06
